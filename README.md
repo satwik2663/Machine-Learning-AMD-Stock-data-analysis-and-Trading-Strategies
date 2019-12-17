@@ -21,5 +21,15 @@ Fine-tone our portfolios and strategies using advanced machine learning algorith
 - Exponential Moving Average
 - Kalman Filter
 
+## TRADING STARTERGIES
+- Day Trade
+- long Short
+- Buy Hold
+
+## Portfolio Profits and Losses (P & L) Analysis
+- Have considered the following parameters for Portfoilo Analysis
+
+![image](https://user-images.githubusercontent.com/37238004/71029416-512d3580-20dd-11ea-8b24-952141c85400.png)
+
 
 
